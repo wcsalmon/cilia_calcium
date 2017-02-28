@@ -1,4 +1,6 @@
 # cilia_calcium
 
-.ijm files are for use with the Fiji package of ImageJ (www.fiji.sc). 
-.m files are for use with MatLab.
+//.ijm files are for use with the Fiji package of ImageJ (www.fiji.sc). 
+
+
+//Preprocessing and MATLAB analysis are for MATLAB
